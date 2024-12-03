@@ -1,0 +1,191 @@
+[
+    {
+        "query": "As a student, I want to know how I can track the real-time location of my bus so that I can avoid waiting for long periods?",
+        "response": "You can track the real-time location of your bus using the DUET Transit Tracker. Just log into your account and access the bus tracking feature on the dashboard."
+    },
+    {
+        "query": " As an administrator, how do I approve or reject student ID card requests?",
+        "response": "Administrators can manage ID card requests through the admin dashboard. Simply navigate to the ID card requests section, where you can review, approve, or reject each request."
+    },
+    {
+        "query": "As a student, what information do I need to provide to register for a transport card?",
+        "response": "To register for a transport card, you need to provide your personal details, including your name, student ID, and contact information."
+    },
+    {
+        "query": "As a student, how can I submit feedback about the transportation services?",
+        "response": "You can submit feedback through the feedback feature available in your user dashboard. Your comments will be reviewed by the administration for improvements."
+    },
+    {
+        "query": "As an administrator, what steps should I take to update bus routes in the system?",
+        "response": "To update bus routes, log into the admin dashboard, navigate to the bus routes section, and make the necessary changes. Don't forget to save your updates for them to take effect."
+    },
+    {
+        "query": "As a student, I want to see the upcoming bus schedules so that I can plan my day accordingly?",
+        "response": "You can view the upcoming bus schedules by accessing the schedules feature on the DUET Transit Tracker dashboard after logging in."
+    },
+    {
+        "query": "As an administrator, how can I manage complaints from students?",
+        "response": "Complaints from students can be managed through the complaints section in the admin dashboard. You can view, respond to, and resolve complaints directly from there."
+    },
+    {
+        "query": "How can I register for a digital transport card?",
+        "response": "You can register for a digital transport card through the DUET Transit Tracker app by filling out the registration form and submitting your student ID."
+    },
+    {
+        "query": "How does the GPS tracking feature work?",
+        "response": "The GPS tracking feature allows you to see the real-time location of buses on your route, providing updates on their estimated arrival times."
+    },
+    {
+        "query": "What should I do if I have a complaint about the transport service?",
+        "response": "You can submit your complaint through the 'Feedback' section in the app, where it will be reviewed by the transport administration."
+    },
+    {
+        "query": " How can I track my bus in real-time?",
+        "response": "You can track your bus in real-time using the GPS tracking feature in the DUET Transit Tracker app. Simply open the app and navigate to the tracking section."
+    },
+    {
+        "query": "What features does the DUET Transit Tracker offer?",
+        "response": "The DUET Transit Tracker offers features such as real-time bus tracking, digital card management, route scheduling, and a chatbot for assistance."
+    },
+    {
+        "query": "How can I provide feedback about the transport services?",
+        "response": "You can provide feedback by visiting the 'Feedback' section in the app and filling out the feedback form."
+    },
+    {
+        "query": "Who is the driver for Point No-1 and what are the routes?",
+        "response": "The driver for Point No-1 is Naeem (EA-3661). The routes include:\nPoint 1:\nMaymar Gate No 02 (23 km)\nMaymar Mor (22 km)\nJamali Pull (18 km)\nSachal Mor (16 km)\nPunjab Bus Adda (14 km)\nAl-Asif (13 km)\nChappal Garden (12 km)\nParadise Bakery (11 km)\nMaskan Chowrangi (10 km)\nSafari Park (11 km)\nMetro Kala Board (10 km)\nBaitul Mukkram (8 km)\nHassan Square(5km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "Who is the driver for Point No-2 and what are the routes?",
+        "response": "The driver for Point No-2 is Naeem (EA-3657). The routes include:\nPoint 2:\nSachal Goth Main Gate (15 km)\nMadras Chowrangi (17 km)\nMuhammad Khan Goth (16 km)\nG-3 Bus Stop (17 km)\nMarora Goth (16 km)\nMemon Hospital (16 km)\nRim Jhim Tower (15 km)\nSafora Goth (14 km)\nJohar Complex (13 km)\nMosmiyat (13 km)\nSamama Shopping Center (10 km)\nNipa Chowrangi (9 km)\nMumtaz Manzil (8 km)\nOld Subzi Mandi (5 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What routes does Point No-3 cover?",
+        "response": "Point No-3 is driven by Mehboob (EA-3659). The routes are:\nPoint 3:\nNaval Chowrangi (20 km)\nMawach Mor (18 km)\nRuby Chowk (17 km)\nMuhajir Camp 03 No. & 04 No. (15 km)\nShershah (11 km)\nHabib Bank Pull (8 km)\nNazimabad Petrol Pump (7 km)\nEnquiry Office (7 km)\nGolimar Chowrangi (7 km)\nLasbella Chowrangi (5 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "Who drives Point No-4 and what are the routes?",
+        "response": "The driver for Point No-4 is Muhammad Imran (EA-3656). The routes include:\nPoint 4:\nMalir 15 (17 km)\nKala Board (16 km)\nNatha Khan (12 km)\nShahra-e Faisal (12 km)\nDrig Road (12 km)\nBaloch Colony Pull (7 km)\nShaheed-e-Milat Road (7 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What routes does Point No-5 cover?",
+        "response": "Point No-5 is driven by Zubair Mirani (EA-3658). The routes include:\nPoint 5:\nKhokrapar 2 No. (21 km)\nSaudabad Chowrangi (20 km)\nModel Colony (19 km)\nDipu (16 km)\nMalir Halt (16 km)\nWireless Gate (16 km)\nDalmia (6 km)\nAgha Khan Hospital (5 km)\nLiaquat National Hospital (5 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "Who is the driver for Point No-6 and what routes does it cover?",
+        "response": "The driver for Point No-6 is Amin (EA-3653). The routes include:\nPoint 6:\nIslam Chowk (13 km)\n05 No Bus Stop (9 km)\nPony 5 (9 km)\nBanaras Pull (9 km)\nAbdullah College (9 km)\nBoard Office (8 km)\nA.O Clinic (8 km)\nHyderi (8 km)\nFive Star (10 km)\nWater Pump (9 km)\nKarimabad (7 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What are the routes for Point No-7?",
+        "response": "Point No-7 is driven by Faqeer Muhammad (EB-2528). The routes include:\nPoint 7:\nTank Chowk (17 km)\nMagsi Chowk (15 km)\nBhitayabad (15 km)\nDubai House (15 km)\nNawaz Sharif Scheme (14 km)\nKamran Chowrangi (13 km)\nMunawar Chowrangi (13 km)\nPehlwan Goth (15 km)\nRabia City (15 km)\nJohar Chowrangi (11 km)\nJohar Mor (11 km)\nMillinium Mall (9 km)\nNational Stadium (6 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "Who drives Point No-8 and what routes does it cover?",
+        "response": "The driver for Point No-8 is Ghulam Hussain (GSE-881). The routes include:\n\nPoint 8:\n- 89 Landhi (21 km)\n- Babar Market (21 km)\n- Korangi #5 (17 km)\n- Korangi Crossing (15 km)\n- Qayumabad (11 km)\n- Akhtar Colony (9 km)\n- Gold Mark DHA Phase-1 (8 km)\n- Punjab Chowrangi (9 km)\n- Boat Basin (10 km)\n- Teen Talwar (7 km)\n- Race Course (8 km)\n- Dehli Colony (8 km)\n- Kala Pull (6 km)\n- FTC Building (5 km)\n- University\n\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What routes are available for Point No-9?",
+        "response": "The driver for Point No-9 is Iqbal Pasha (GSE-884). The routes include:\nPoint 9:\n4K Chowrangi (18 km)\nPower House (16 km)\nNagan Chowrangi (13 km)\nSakhi Hassan (12 km)\nPeople Chowrangi (11 km)\nDental College (10 km)\nLandi Kotal Chowrangi (9 km)\nTahir Villa (9 km)\nAisha Manzil (8 km)\nLalu Khet 10 No. (7 km)\nBaloch Hotel (7 km)\nEssa Nagri (5 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What routes are available for Point No-10?",
+        "response": "The driver for Point No-10 is Mohammad Nawaz (GSE-883). The routes include:\nPoint 10:\nGulshan-e-Hadeed (36 km)\nSteel Town (33 km)\nRazzaqabad (29 km)\nBhens Colony (29 km)\nQuaidabad (22 km)\nMurghi Khana (20 km)\nAnwar Baloch Hotel (19 km)\nMalir Court (18 km)\nStar Gate (13 km)\nKarsaz (7 km)\nUniversity\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    },
+    {
+        "query": "What are the details for Point No-1?",
+        "response": "The details for Point No-1 are as follows:\nDriver: Rasheed Ahmed\nContact Number: 0300-3776802"
+    },
+    {
+        "query": "What are the details for Point No-2?",
+        "response": "The details for Point No-2 are as follows:\nDriver: Naeem\nContact Numbers: 0334-3821795 / 0311-2773880"
+    },
+    {
+        "query": "What are the details for Point No-3?",
+        "response": "The details for Point No-3 are as follows:\nDriver: Mehboob\nContact Numbers: 0335-2279242 / 0343-2516441"
+    },
+    {
+        "query": "What are the details for Point No-4?",
+        "response": "The details for Point No-4 are as follows:\nDriver: Muhammad Imran\nContact Number: 0301-2550247"
+    },
+    {
+        "query": "What are the details for Point No-5?",
+        "response": "The details for Point No-5 are as follows:\nDriver: Zubair Mirani\nContact Numbers: 0313-3492396 / 0300-2092166"
+    },
+    {
+        "query": "What are the details for Point No-6?",
+        "response": "The details for Point No-6 are as follows:\nDriver: Amin\nContact Number: 0323-2267628"
+    },
+    {
+        "query": "What are the details for Point No-7?",
+        "response": "The details for Point No-7 are as follows:\nDriver: Faqeer Muhammad\nContact Numbers: 0322-3882312 / 0311-1804275"
+    },
+    {
+        "query": "What are the details for Point No-8?",
+        "response": "The details for Point No-8 are as follows:\nDriver: Ghulam Hussain\nContact Number: 0306-2328887"
+    },
+    {
+        "query": "What are the details for Point No-9?",
+        "response": "The details for Point No-9 are as follows:\nDriver: Iqbal Pasha\nContact Numbers: 0300-3689687 / 0310-1074097"
+    },
+    {
+        "query": "What are the details for Point No-10?",
+        "response": "The details for Point No-10 are as follows:\nDriver: Muhammad Nawaz\nContact Number: 0335-2400355"
+    },
+    {
+        "query": "What is the purpose of the web?",
+        "response": "The purpose of our web is to enhance the campus travel experience by providing efficient transportation solutions, real-time bus tracking, and an easy-to-use interface for students to access necessary transport services."
+    },
+    {
+        "query": "What is the process for obtaining a transport card?",
+        "response": "To obtain a transport card, students need to fill out an application form on our online portal, providing all required information. Once submitted, the request will be processed, and students will be notified once their card is ready."
+    },
+    {
+        "query": "What is the transport process?",
+        "response": "The transport process involves registering for a transport card, checking available bus routes, and using the app to track buses in real-time. Students can easily access schedules and receive updates on their travel."
+    },
+    {
+        "query": "How many points are available?",
+        "response": "Currently, there are 10 points available for student transport services."
+    },
+    {
+        "query": "What is the fee structure for the transport points?",
+        "response": "The fee structure is as follows: for routes within 6 kilometers, the fee is 7,000 PKR per semester. If the distance exceeds 6 kilometers, the fee will be 10,000 PKR per semester. Each semester lasts for 6 months."
+    },
+    {
+        "query": "How can the transport card be generated? What is the complete process?",
+        "response": "You need to fill out the transport card form by clicking on the generate card button. There will be a form which you need to fill out and then wait for the admin's 'response'. If the admin approves your request, the card will be generated automatically. Otherwise, the request will be rejected."
+    },
+    {
+        "query": "How can we track the point?",
+        "response": "First, you need to select your point. After selecting the point, you need to enter the location. Then you will know where your point is currently located."
+    },
+    {
+        "query": "How can someone check the routes for a point?",
+        "response": "When you select a point, you will be able to see its route. Otherwise, there will be a search icon on the website. If you search for your area there, you will find out about the point and whether it goes to that area."
+    },
+    {
+        "query": "Is there a fee for the point?",
+        "response": "Yes, there is a fee for the point. Each student needs to pay the fee on a semester-wise basis through their transport card, which covers the transport charges."
+    },
+    {
+        "query": "What should a student do if they don't receive a 'response' to a transport-related complaint?",
+        "response": "If a student doesn't get a response to their complaint, they can visit the transport office  to resolve the issue."
+    },
+    {
+        "query": "What are the departure and arrival times for the transport service?",
+        "response": "Bus arrival time is 08:30 am at the Main Campus and departure time is 5 pm from the Main Campus. Please note that the timings may vary in different schedules, so it's best to check your specific transport papers for any changes."
+    },
+    {
+        "query": "How can I file a complaint?",
+        "response": "To file a complaint, please click on the 'Feedback' option and provide your feedback there. If you have a specific complaint, you can submit it directly in that section."
+    },
+    {
+        "query": "What are the routes available for transport?",
+        "response": "The available routes for transport are as follows:\n\nPoint 1:\n- Maymar Gate No 02 (23 km)\n- Maymar Mor (22 km)\n- Jamali Pull (18 km)\n- Sachal Mor (16 km)\n- Punjab Bus Adda (14 km)\n- Al-Asif (13 km)\n- Chappal Garden (12 km)\n- Paradise Bakery (11 km)\n- Maskan Chowrangi (10 km)\n- Safari Park (11 km)\n- Metro Kala Board (10 km)\n- Baitul Mukkram (8 km)\n- Hassan Square (5 km)\n- University\n\nPoint 2:\n- Sachal Goth Main Gate (15 km)\n- Madras Chowrangi (17 km)\n- Muhammad Khan Goth (16 km)\n- G-3 Bus Stop (17 km)\n- Marora Goth (16 km)\n- Memon Hospital (16 km)\n- Rim Jhim Tower (15 km)\n- Safora Goth (14 km)\n- Johar Complex (13 km)\n- Mosmiyat (13 km)\n- Samama Shopping Center (10 km)\n- Nipa Chowrangi (9 km)\n- Mumtaz Manzil (8 km)\n- Old Subzi Mandi (5 km)\n- University\n\nPoint 3:\n- Naval Chowrangi (20 km)\n- Mawach Mor (18 km)\n- Ruby Chowk (17 km)\n- Muhajir Camp 03 No. & 04 No. (15 km)\n- Shershah (11 km)\n- Habib Bank Pull (8 km)\n- Nazimabad Petrol Pump (7 km)\n- Enquiry Office (7 km)\n- Golimar Chowrangi (7 km)\n- Lasbella Chowrangi (5 km)\n- University\n\nPoint 4:\n- Malir 15 (17 km)\n- Kala Board (16 km)\n- Natha Khan (12 km)\n- Shahra-e Faisal (12 km)\n- Drig Road (12 km)\n- Baloch Colony Pull (7 km)\n- Shaheed-e-Milat Road (7 km)\n- University\n\nPoint 5:\n- Khokrapar 2 No. (21 km)\n- Saudabad Chowrangi (20 km)\n- Model Colony (19 km)\n- Dipu (16 km)\n- Malir Halt (16 km)\n- Wireless Gate (16 km)\n- Dalmia (6 km)\n- Agha Khan Hospital (5 km)\n- Liaquat National Hospital (5 km)\n- University\n\nPoint 6:\n- Islam Chowk (13 km)\n- 05 No Bus Stop (9 km)\n- Pony 5 (9 km)\n- Banaras Pull (9 km)\n- Abdullah College (9 km)\n- Board Office (8 km)\n- A.O Clinic (8 km)\n- Hyderi (8 km)\n- Five Star (10 km)\n- Water Pump (9 km)\n- Karimabad (7 km)\n- University\n\nPoint 7:\n- Tank Chowk (17 km)\n- Magsi Chowk (15 km)\n- Bhitayabad (15 km)\n- Dubai House (15 km)\n- Nawaz Sharif Scheme (14 km)\n- Kamran Chowrangi (13 km)\n- Munawar Chowrangi (13 km)\n- Pehlwan Goth (15 km)\n- Rabia City (15 km)\n- Johar Chowrangi (11 km)\n- Johar Mor (11 km)\n- Millinium Mall (9 km)\n- National Stadium (6 km)\n- University\n\nPoint 8:\n- 89 Landhi (21 km)\n- Babar Market (21 km)\n- Korangi #5 (17 km)\n- Korangi Crossing (15 km)\n- Qayumabad (11 km)\n- Akhtar Colony (9 km)\n- Gold Mark DHA Phase-1 (8 km)\n- Punjab Chowrangi (9 km)\n- Boat Basin (10 km)\n- Teen Talwar (7 km)\n- Race Course (8 km)\n- Dehli Colony (8 km)\n- Kala Pull (6 km)\n- FTC Building (5 km)\n- University\n\nPoint 9:\n- 4K Chowrangi (18 km)\n- Power House (16 km)\n- Nagan Chowrangi (13 km)\n- Sakhi Hassan (12 km)\n- People Chowrangi (11 km)\n- Dental College (10 km)\n- Landi Kotal Chowrangi (9 km)\n- Tahir Villa (9 km)\n- Aisha Manzil (8 km)\n- Lalu Khet 10 No. (7 km)\n- Baloch Hotel (7 km)\n- Essa Nagri (5 km)\n- University\n\nPoint 10:\n- Gulshan-e-Hadeed (36 km)\n- Steel Town (33 km)\n- Razzaqabad (29 km)\n- Bhens Colony (29 km)\n- Quaidabad (22 km)\n- Murghi Khana (20 km)\n- Anwar Baloch Hotel (19 km)\n- Malir Court (18 km)\n- Star Gate (13 km)\n- Karsaz (7 km)\n- University\n\nPlease note that this information may not be the latest. You can contact the respective point driver for the current timings or check with the transport office for the most accurate information."
+    }
+   
+    
+
+
+
+]
